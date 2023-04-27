@@ -1,0 +1,7 @@
+LIBRARY nt6dlltest
+EXPORTS
+ fun
+ fun2
+ random_range
+ funzero
+ 
